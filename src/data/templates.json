@@ -1,0 +1,28 @@
+{
+	"exercise": {
+		"exercise": "",
+		"note": "",
+		"link": "",
+		"frequency": "",
+		"duration_minutes": 0,
+		"instant_relief": false,
+		"imgUrl": "",
+		"username": "",
+		"userUrl": ""
+	},
+	"resources": {
+		"resource": "",
+		"type": "",
+		"isFree": false,
+		"details": "",
+		"link": "",
+		"username": "",
+		"userUrl": ""
+	},
+	"tips": {
+		"title": "",
+		"tip": "",
+		"username": "",
+		"userUrl": ""
+	}
+}

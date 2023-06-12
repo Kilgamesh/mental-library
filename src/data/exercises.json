@@ -1,0 +1,57 @@
+[
+	{
+		"exercise": "Deep Breathing",
+		"note": "Deep breathing adjusts your physiology and slows down the mind. Deep breathing has been scientific proven to help regulate the autonomic nervous system, which consists of the sympathetic and parasympathetic nervous system. I find it especially helpful when am overwhelmed.",
+		"link": "https://www.youtube.com/watch?v=aNXKjGFUlMs",
+		"frequency": "Daily",
+		"duration_minutes": 3,
+		"instant_relief": true,
+		"imgUrl": "/imgs/exercises/deepbreath.gif",
+		"username": "kilgamesh",
+		"userUrl": "https://github.com/kilgamesh"
+	},
+	{
+		"exercise": "Journal",
+		"note": "Keeping a journal provides an opportunity for positive self-talk and identifying negative thoughts and behaviors. It can also help you prioritize problems, fears, and concerns. Keeping a gratefulness journal is what I have found most helpful.",
+		"link": "https://www.choosingtherapy.com/journaling-for-mental-health/",
+		"frequency": "3-5 times a week",
+		"duration_minutes": 15,
+		"instant_relief": false,
+		"imgUrl": "/imgs/exercises/journal.gif",
+		"username": "kilgamesh",
+		"userUrl": "https://github.com/kilgamesh"
+	},
+	{
+		"exercise": "Go for a walk outside",
+		"note": "It does not have to be intense and going with a friend makes it a lot more enjoyable. It is also a great time to slow down and disconnect. Though, with allergy season going to the gym in my apartment and using the treadmill has been a great alternative. I usually have one show I will only watch in the gym which makes going a lot more enjoyable.",
+		"link": null,
+		"frequency": "Daily",
+		"duration_minutes": 30,
+		"instant_relief": true,
+		"imgUrl": "/imgs/exercises/walking.gif",
+		"username": "kilgamesh",
+		"userUrl": "https://github.com/kilgamesh"
+	},
+	{
+		"exercise": "Cook Something",
+		"note": "Cooking at home, or other places are good for your mental health because cooking is an act of patience, mindfulness, an outlet for creative expression, a means of communication, and helps to raise one’s self esteem as the cook can feel good about doing something positive for their family, themselves or loved ones.",
+		"link": null,
+		"frequency": "Daily",
+		"duration_minutes": 45,
+		"instant_relief": true,
+		"imgUrl": "/imgs/exercises/cooking.gif",
+		"username": "kilgamesh",
+		"userUrl": "https://github.com/kilgamesh"
+	},
+	{
+		"exercise": "Seek Therapy",
+		"note": "In general, a therapist’s job is to make themselves unnecessary. They are trying to build capacity in the client so that they can work through these or other types of problems without our help in the future. They will be happy to help, but will be even happier to see clients stand on their own.",
+		"link": null,
+		"frequency": "Weekly",
+		"duration_minutes": 45,
+		"instant_relief": false,
+		"imgUrl": "/imgs/exercises/therapy.gif",
+		"username": "kilgamesh",
+		"userUrl": "https://github.com/kilgamesh"
+	}
+]

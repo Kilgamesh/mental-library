@@ -1,0 +1,56 @@
+[
+	{
+		"resource": "hims Online Group Therapy",
+		"type": "counseling",
+		"isFree": true,
+		"details": "(Anonymous) Sessions take place on Wednesdays and Fridays. During the session, the therapist will provide helpful strategies and tools, moderate a group discussion, and answer real-time questions.",
+		"link": "https://www.forhims.com/online-support-groups",
+		"username": "kilgamesh",
+		"userUrl": "https://github.com/kilgamesh"
+	},
+	{
+		"resource": "r/TalkTherapy",
+		"type": "Community",
+		"isFree": true,
+		"details": "Share your psychotherapy stories and questions here. Clients and therapists are both welcome to exchange perspectives and ideas.",
+		"link": "https://www.reddit.com/r/TalkTherapy/",
+		"username": "kilgamesh",
+		"userUrl": "https://github.com/kilgamesh"
+	},
+	{
+		"resource": "SAMHSA",
+		"type": "Helpline",
+		"isFree": true,
+		"details": "SAMHSA’s National Helpline is a free, confidential, 24/7, 365-day-a-year treatment referral and information service (in English and Spanish) for individuals and families facing mental and/or substance use disorders.",
+		"link": "https://www.samhsa.gov/find-help/national-helpline",
+		"username": "kilgamesh",
+		"userUrl": "https://github.com/kilgamesh"
+	},
+	{
+		"resource": "Refind Daily Newsletter",
+		"type": "newsletter",
+		"isFree": true,
+		"details": "Allows you to select your interests for daily articles & videos from experts",
+		"link": "https://refind.com/",
+		"username": "kilgamesh",
+		"userUrl": "https://github.com/kilgamesh"
+	},
+	{
+		"resource": "The Vent",
+		"type": "Community",
+		"isFree": true,
+		"details": "The Vent is a Discord Server for Gamers, Mental Health, Musicians, and Making Friends with roughly 17K members. It has a live chat communication style.",
+		"link": "https://discord.com/invite/vent?ref=thehiveindex.com&utm_source=thehiveindex.com",
+		"username": "kilgamesh",
+		"userUrl": "https://github.com/kilgamesh"
+	},
+	{
+		"resource": "The Daily Good",
+		"type": "newsletter",
+		"isFree": true,
+		"details": "30 second newsletter focused around sustainability, slow living, and self-care. Topics include soothing playlists, sustainable recipes, inspiring articles and more",
+		"link": "https://www.thegoodtrade.com/the-daily-good/",
+		"username": "kilgamesh",
+		"userUrl": "https://github.com/kilgamesh"
+	}
+]
