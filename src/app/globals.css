@@ -86,6 +86,10 @@ main {
 @media screen and (min-width: 550px) {
 	#tips {
 		width: 100%;
+		-moz-column-count: 2;
+		-webkit-column-count: 2;
+		-moz-column-width: 50%;
+		-webkit-column-width: 50%;
 		column-count: 2;
 		column-width: 50%;
 	}
@@ -93,6 +97,10 @@ main {
 @media screen and (min-width: 600px) {
 	#resources {
 		width: 100%;
+		-moz-column-count: 2;
+		-webkit-column-count: 2;
+		-moz-column-width: 50%;
+		-webkit-column-width: 50%;
 		column-count: 2;
 		column-width: 50%;
 	}
@@ -102,10 +110,18 @@ main {
 		width: 100%;
 		column-count: 2;
 		column-width: 50%;
+		-moz-column-count: 2;
+		-webkit-column-count: 2;
+		-moz-column-width: 50%;
+		-webkit-column-width: 50%;
 	}
 	#tips {
 		column-count: 3;
 		column-width: 33.33%;
+		-moz-column-count: 3;
+		-webkit-column-count: 3;
+		-moz-column-width: 33.33%;
+		-webkit-column-width: 33.33%;
 	}	
 }
 
@@ -113,5 +129,9 @@ main {
 	#resources, #exercises {
 		column-count: 3;
 		column-width: 33.33%;
+		-moz-column-count: 3;
+		-webkit-column-count: 3;
+		-moz-column-width: 33.33%;
+		-webkit-column-width: 33.33%;
 	}
 }
