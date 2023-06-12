@@ -1,6 +1,6 @@
- <h1 align="center">
-	The Mental Library
- </h1>
+ <h1 align="center">The Mental Library 📓</h1>
+
+![Screenshot of Mental Library](/public/imgs/screenshot.png)
 
 ## Welcome! 🙌
 
@@ -17,6 +17,6 @@ The app was created using:
 
 ## Contributing ✨
 
-Please wait for a future update on the details on how to contribute
+**To get started contributing visit the [Contributing Guild](/CONTRIBUTING.md)**
 
-**Thank you for using !**
+**Thank you for visiting The Mental Library!**
