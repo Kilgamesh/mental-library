@@ -2,9 +2,11 @@
 
 ![Screenshot of Mental Library](/public/imgs/screenshot.png)
 
+## No Further Updates as of 9/25/23
+
 ## Welcome! 🙌
 
-The Mental Library is community maintained library to promote the sharing of knowledge, tools and importance of mental health.
+The Mental Library is a community-maintained library to promote the sharing of knowledge, tools, and importance of mental health.
 
 ## Tech Stack 🛠️
 
